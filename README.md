@@ -47,5 +47,5 @@ To add a new exercise:
 2. Run the command `npm run generate`.
 3. When prompted, enter the name of the new exercise in "camelCase" syntax.
 
-###Kabanda Gislain
+#### Kabanda Gislain
 After entering an exercise name, a new directory with the necessary files will be created. You will then need to update the `README.md` and `spec.js` files as well as the files in the `solution` directory of the new exercise.
